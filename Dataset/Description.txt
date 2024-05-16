@@ -1,0 +1,23 @@
+Description:
+- Describe the dataset of foreign currencies including Japanese Yen (JPY), Euro (EUR), and British Pound (GBP).
+- Data source: https://tpb.vn/cong-cu-tinh-toan/ty-gia-ngoai-te
+
+Introduction:
+This dataset provides information about buying/selling rates between various currencies in Vietnam. The data is regularly updated and includes three different types of exchange rates.
+
+Attributes:
+- Date: Date of exchange rate recording
+- Purchase: Buying rate (cash)
+- Sale: Selling rate (cash/transfer)
+- Transfer: Buying rate (transfer)
+
+Number of attributes: The dataset has 4 attributes.
+
+Applications: This dataset can be utilized for various purposes, including:
+- Analyzing exchange rate fluctuations
+- Predicting exchange rate trends in the future
+- Supporting investment decisions
+- Economic research
+
+Summary:
+The exchange rate dataset is a useful tool for individuals needing to monitor and analyze exchange rates between various currencies worldwide. The data can be used for multiple purposes, including analyzing exchange rate fluctuations, predicting exchange rate trends in the future, supporting investment decisions, and economic research.
